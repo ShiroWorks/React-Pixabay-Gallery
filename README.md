@@ -5,6 +5,8 @@ Simple gallery with images from the pixabay API. Tailwind css is built into work
 ## Usage
 Add your Pixabay API key to .env - https://pixabay.com/api/docs/
 
+[Live version](https://react-pixabay-gallery.netlify.com/)
+
 ```
 # Install dependencies
 npm install
